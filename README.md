@@ -7,7 +7,7 @@
 ## Projects
 
 - [Node.js CI/CD Pipeline](https://github.com/N176/nodejs-cicd-pipeline) - Automating the deployment of Node.js applications using Jenkins and AWS EC2.
-- [90DaysOfDevOps](https://github.com/N176/90DaysOfDevOps) - A personal challenge to become better at DevOps in 90 days.
+- [90DaysOfDevOps](https://github.com/N176/Two-Tier-Flaskapp.git) - A personal challenge to become better at DevOps in 90 days.
 
 ## Technologies I Use
 

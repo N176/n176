@@ -1,5 +1,3 @@
-Here's a more concise version of your profile:
-
 * * * * *
 
 Hi, I'm Nazish Ali 👋

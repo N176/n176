@@ -47,13 +47,6 @@ A **Flask** app with a **MySQL** database, demonstrating backend API and databas
 
 * * * * *
 
-🤝 Let's Connect
-----------------
-
--   **Email**: [nazish.ali@gmail.com](mailto:sayyednazish52@gmail.com)
-
-* * * * *
-
 📈 GitHub Stats
 ---------------
 

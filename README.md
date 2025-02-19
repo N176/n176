@@ -1,6 +1,6 @@
 * * * * *
 
-Hi, I'm Nazish Ali 👋
+Hi, I'm Nova 👋
 =====================
 
 **Aspiring DevOps Engineer | Cloud Enthusiast | CI/CD Advocate**
@@ -50,7 +50,6 @@ A **Flask** app with a **MySQL** database, demonstrating backend API and databas
 🤝 Let's Connect
 ----------------
 
--   **LinkedIn**: [Nazish Ali](https://www.linkedin.com/in/nazish-ali-7b09a0257)
 -   **Email**: [nazish.ali@gmail.com](mailto:sayyednazish52@gmail.com)
 
 * * * * *
@@ -58,7 +57,7 @@ A **Flask** app with a **MySQL** database, demonstrating backend API and databas
 📈 GitHub Stats
 ---------------
 
-![Nazish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=N176&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Nova's GitHub Stats](https://github-readme-stats.vercel.app/api?username=N176&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 * * * * *
 
